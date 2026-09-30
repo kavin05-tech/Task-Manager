@@ -1,4 +1,4 @@
-# Task Manager using SQLite
+# Task Manager
 
 A Python desktop application for creating, updating, prioritizing, tracking, and deleting tasks. Built with Tkinter and SQLite, it combines persistent task storage with modular application logic, undo support, and a FIFO task-processing workflow.
 
